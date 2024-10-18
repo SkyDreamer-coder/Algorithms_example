@@ -1,0 +1,14 @@
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\bin\Debug\net8.0\Str2OpCalculator.exe
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\bin\Debug\net8.0\Str2OpCalculator.deps.json
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\bin\Debug\net8.0\Str2OpCalculator.runtimeconfig.json
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\bin\Debug\net8.0\Str2OpCalculator.dll
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\bin\Debug\net8.0\Str2OpCalculator.pdb
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\obj\Debug\net8.0\Str2OpCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\obj\Debug\net8.0\Str2OpCalculator.AssemblyInfoInputs.cache
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\obj\Debug\net8.0\Str2OpCalculator.AssemblyInfo.cs
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\obj\Debug\net8.0\Str2OpCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\obj\Debug\net8.0\Str2OpCalculator.dll
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\obj\Debug\net8.0\refint\Str2OpCalculator.dll
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\obj\Debug\net8.0\Str2OpCalculator.pdb
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\obj\Debug\net8.0\Str2OpCalculator.genruntimeconfig.cache
+C:\Users\Ryko\Desktop\statics\Str2OpCalculator\Str2OpCalculator\obj\Debug\net8.0\ref\Str2OpCalculator.dll
